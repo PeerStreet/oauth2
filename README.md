@@ -1,9 +1,9 @@
 # OAuth2
 
 [![Gem Version](http://img.shields.io/gem/v/oauth2.svg)][gem]
-[![Build Status](http://img.shields.io/travis/intridea/oauth2.svg)][travis]
+[![Build Status](http://img.shields.io/travis/PeerStreet/oauth2.svg)][travis]
 [![Dependency Status](http://img.shields.io/gemnasium/intridea/oauth2.svg)][gemnasium]
-[![Code Climate](http://img.shields.io/codeclimate/github/intridea/oauth2.svg)][codeclimate]
+[![Code Climate](http://img.shields.io/codeclimate/github/PeerStreet/oauth2.svg)][codeclimate]
 [![Coverage Status](http://img.shields.io/coveralls/intridea/oauth2.svg)][coveralls]
 
 [gem]: https://rubygems.org/gems/oauth2
